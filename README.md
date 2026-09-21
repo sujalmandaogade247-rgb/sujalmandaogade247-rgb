@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 This is my first repo, learning how to use a prof github acc,
-i will updated soon.:)
+i will be updating soon.:)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
