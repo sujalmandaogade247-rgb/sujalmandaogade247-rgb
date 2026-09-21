@@ -1,11 +1,12 @@
 ## Hi there 👋
-This is my first repo, learning how to use a prof github acc,
-i will updated soon.
 
 <!--
 **sujalmandaogade247-rgb/sujalmandaogade247-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+This is my first repo, learning how to use a prof github acc,
+i will updated soon.:)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
